@@ -1,0 +1,33 @@
+Prompts: 
+
+Prompt for the cover:
+---
+Could you create an image for my ebook titled "Código Descomplicado: Domine os Fundamentos Sem Precisar Ser um Gênio!" in pixel art style? I would like a stereotypical mad doctor to satirize the phrase "You don't need to be a genius.
+
+Prompt for the content:
+---
+
+I'm developing an educational eBook called "Código Descomplicado: Domine os Fundamentos Sem Precisar Ser um Gênio!" focusing on beginners in programming. I want it to teach programming logic in an accessible, progressive way with technical depth, but without using unnecessary jargon.  
+
+Desired tone and style:  
+- Light, simple, clear language, and not childish.  
+- Uncomplicated explanations, as if the reader were talking to someone who truly understands the subject, but doesn't want to seem superior.  
+- Zero academicism or excessive flair: each page should be useful and with a beginning-middle-end structure.  
+- I don't want bullet points in excess — I prefer well-structured paragraphs and integrated examples within the text.  
+
+Book format and structure:  
+- Avoid abrupt page breaks.  
+- Content follows a logical pedagogical sequence, starting from the mindset of the programmer (chapter 1) and progressing to algorithms, data, variables, operators, etc.  
+- Each technical concept is always anchored in practical examples and real-world scenarios, using simple pseudocode, Portuguese, to reinforce learning.  
+- Exercises and challenges at the end of pages are welcome but should follow the same logic: syntax first.  
+
+Already developed and established:  
+- Introduction: breaks the myth that only geniuses can program, using daily examples to show that everyone uses logic daily.  
+- What I am looking for:  
+  - Helps with creative expansion of future chapters, keeping the tone accessible and clear.  
+  - Creative analogies, exercises well contextualized, and ways to address technical content without sounding dry or robotic.  
+  - A writing structure that balances didactics, technical progression, and natural engagement.  
+
+Summary:  
+- Technical teaching with a conversational tone. Each line should teach something and motivate the reader.  
+
