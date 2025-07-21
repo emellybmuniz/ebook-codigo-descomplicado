@@ -4,14 +4,6 @@
 
 -------
 
-<p align="center">
-    <img 
-        src="./.github/assets/cover.png"
-        width="400"
-        alt="Capa do ebook Código Descomplicado"
-    />
-</p>
-
 # Projeto EBOOK Gerado por I.A.
 
 > ℹ️ **Nota:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me).
