@@ -52,14 +52,6 @@ Projeto com o objetivo de gerar um ebook digital utilizando ferramentas de IA. T
    - Ou outra ferramenta de edição de documentos
 
 ## 👨‍💻 Autor
-
-<div align="left">
-    <img 
-        src="https://avatars.githubusercontent.com/u/37452836?v=4"
-        width="80"
-        alt="Emelly Beatriz"
-        style="border-radius: 50%"
-    />
     <p>
         <strong>Emelly Beatriz</strong><br>
         <a href="https://github.com/emellydev">GitHub</a> •
