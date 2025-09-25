@@ -43,10 +43,10 @@ Projeto com o objetivo de gerar um ebook digital utilizando ferramentas de IA. T
    - InDesign
    - Ou outra ferramenta de edição de documentos
 
-## 👨‍💻 Autor
+## 👨‍💻 Autora
 <div align="left">
     <p>
-        <strong>Felipe Aguiar</strong><br>
+        <strong>Emelly Beatriz</strong><br>
         <a href="https://github.com/emellydev">GitHub</a> •
         <a href="https://www.linkedin.com/in/emellybmuniz">LinkedIn</a> •
         <a href="https://www.instagram.com/emellybmuniz/">Instagram</a>
