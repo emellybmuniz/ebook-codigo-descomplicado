@@ -16,7 +16,7 @@ Projeto com o objetivo de gerar um ebook digital utilizando ferramentas de IA. T
 
 - [ChatGPT](https://chat.openai.com/) - Geração de conteúdo
 - [PowerPoint](https://www.microsoft.com/microsoft-365/powerpoint) - Diagramação
-- [DeepSeek](https://chat.deepseek.com/) - Auxílio na criação
+- [DeepSeek](https://chat.deepseek.com/) - Auxílio na revisão
 
 ## 🧠 Prompts utilizados
 
@@ -27,21 +27,11 @@ Projeto com o objetivo de gerar um ebook digital utilizando ferramentas de IA. T
 | **Capa** | "Crie uma imagem para meu ebook 'Código Descomplicado: Domine os Fundamentos Sem Precisar Ser um Gênio!' em estilo pixel art. Quero um cientista maluco estereotipado para satirizar a frase 'Você não precisa ser um gênio'." |
 | **Conteúdo** | "Estou desenvolvendo um eBook educacional chamado 'Código Descomplicado' para iniciantes em programação. Preciso de um conteúdo que ensine lógica de programação de forma acessível e progressiva, com profundidade técnica mas sem jargões desnecessários.<br><br>**Tom e estilo desejados:**<br>- Linguagem clara e simples, mas não infantil<br>- Explicações descomplicadas, como uma conversa entre colegas<br>- Zero academicismo - cada página deve ter estrutura clara de início-meio-fim<br>- Prefiro parágrafos bem estruturados a listas excessivas<br><br>**Estrutura:**<br>- Progressão pedagógica lógica: mentalidade do programador → algoritmos → variáveis → operadores etc.<br>- Conceitos técnicos sempre com exemplos práticos e pseudocódigo em português<br>- Exercícios contextualizados no final das seções" |
 
-## ✨ Funcionalidades
+## ✨ Criação
 
 - Conteúdo gerado por DeepSeek e ChatGPT
 - Ilustrações criadas por ChatGPT
 - Diagramação com PowerPoint
-
-## 🛠️ Como utilizar
-
-1. Execute os prompts documentados nas ferramentas de IA mencionadas
-2. Utilize os resultados como material base
-3. Diagrame o conteúdo usando:
-   - PowerPoint
-   - LibreOffice
-   - InDesign
-   - Ou outra ferramenta de edição de documentos
 
 ## 👨‍💻 Autora
 <div align="left">
